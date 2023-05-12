@@ -4,16 +4,16 @@ Determining the success of a global Covid Vaccine program
 
 DAP 42 - Determining the success of a global Covid Vaccine program 
 
-Industry 
+Industry --
 Health care | Government 
 
-Skills
+Skills --
 Tableau | Excel | Dashboard | Data visualization | Data cleaning | Data manipulation 
 
-Problem statements
+Problem statements --
 Determining the success of a global Covid vaccine program. 
 
-Data Description
+Data Description --
 The dataset was taken from https://ourworldindata.org/covid-vaccinations. The dataset includes the important values we will be using to determine the success of the vaccine program including 
 
 People fully vaccinated (2 doses of the vaccine)
@@ -34,7 +34,7 @@ Behavioral factors: Cultural and social factors can also impact vaccine effectiv
 
 
 
-Methods
+Methods --
 The three groups studied to determine the success of the global Covid vaccine program was
 People fully vaccinated (2 doses of the vaccine)
 People partially vaccinated (1 dose of the vaccine)
@@ -42,15 +42,15 @@ People not vaccinated (no doses of the vaccine)
 
 The effectiveness of the vaccine was judged based on if the people who were fully and partially vaccinated had a significantly lower chance of contracting the Covid virus. A bar graph was created with a synchronized dual axis of the countries vs the share of people fully or partially vaccinated over the population. 
 
-Results
+Results --
 Vaccines are effective in combating Covi virus
 The higher the GDP, the more likely the citizens are vaccinated 
 
-Conclusion
-Best plan of action for citizens 
-Become fully vaccinated 
+Conclusion --
+Best plan of action for citizens:
+-> Become fully vaccinated 
 
-Best plan of action for governments, health care sector and health care professionals
-Enable citizens to have access to vaccines 
-Invest money into vaccine research and development 
+Best plan of action for governments, health care sector and health care professionals:
+-> Enable citizens to have access to vaccines 
+-> Invest money into vaccine research and development 
 
